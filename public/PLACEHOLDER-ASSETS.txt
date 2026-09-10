@@ -1,0 +1,8 @@
+Coloque aqui os assets finais:
+
+logo-ozare.svg
+rafael-zaccari.webp
+og-cover.jpg
+favicon.ico
+
+Depois substitua o bloco .portraitPlaceholder pelo componente Image do Next.js.
